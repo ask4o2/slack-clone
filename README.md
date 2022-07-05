@@ -1,6 +1,20 @@
-# Getting Started with Create React App and Redux
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is a clone of the slack social networking platform.
+
+# Technologies Used for Implementation
+
+### `React`
+### `Redux`
+### `styled-components`
+### `Material UI`
+### `firestore realtime database`
+### `firebase hosting`
+
+# Project link
+
+### `https://slack-f83ce.web.app/`
+
 
 ## Available Scripts
 
