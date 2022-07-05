@@ -1,3 +1,7 @@
+# Project link
+
+### `https://slack-f83ce.web.app/
+
 # Description
 
 This project is a clone of the slack social networking platform.
@@ -10,11 +14,6 @@ This project is a clone of the slack social networking platform.
 ### `Material UI`
 ### `firestore realtime database`
 ### `firebase hosting`
-
-# Project link
-
-### `https://slack-f83ce.web.app/`
-
 
 ## Available Scripts
 
